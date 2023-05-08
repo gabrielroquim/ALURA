@@ -1,0 +1,16 @@
+{
+  "name": "testes_unitarios_integracao",
+  "version": "1.0.0",
+  "description": "Testes de integração e unitário usando nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Roquim",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
